@@ -3,7 +3,9 @@
 # 3D LEGO Bar Plot with Plotly
 
 This Jupyter Notebook demonstrates how to create a 3D LEGO-style bar plot using the Plotly library. The plot is similar in style to ROOT's 3D bar plot representation.
-
+<p align="center">
+  <img src="legoplot.pdf">
+</p>
 ## Prerequisites
 
 You need the following libraries installed to run this notebook:

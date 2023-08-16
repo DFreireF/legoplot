@@ -1,7 +1,9 @@
 # 3D LEGO Bar Plot with Plotly
 
 This Jupyter Notebook demonstrates how to create a 3D LEGO-style bar plot using the Plotly library. The plot is similar in style to ROOT's 2D histo bar plot representation.
-
+<div class="center">
+  <img src="https://github.com/DFreireF/legoplot/raw/main/docs/img/legoplot.png" alt="Legoplot Image" width="700">
+</div>
 <div style="margin-left:auto;margin-right:auto;text-align:center">
 <img src="https://raw.githubusercontent.com/DFreireF/legoplot/docs/img/legoplot.png" width="700">
 </div>
